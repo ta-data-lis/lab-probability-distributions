@@ -1,7 +1,7 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Discrete Probability Distributions
+# Lab | Discrete and Continuous Probability Distributions
 
 
 ## Introduction
