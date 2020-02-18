@@ -11,6 +11,7 @@ As a data analyst, you might need to use probability distribution for several re
 
 - To make better data-driven decisions by answering questions like 'how likely something has happened out of pure coincidence'.
 
+
 ## Getting Started
 
 Open `discrete.ipynb` and `continuous.ipynb` in the `your-code` directory. There are exercises on uniform, normal, exponential, Bernoulli's, binomial, and poisson distributions. In each exercise please read the question carefully and provide your solutions below the question. All the calculations must be performed using Python. The dataset to be used in the exercise has been provided on GitHub here. Also please keep in mind that you might also need to use some of the functions you saw in the previous lessons. Please refer the notes. 
